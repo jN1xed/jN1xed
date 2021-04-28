@@ -23,22 +23,22 @@ Don't know what to say. But, I'm 17 and growing fast af. Love to work on challen
 
 ### GitHub Stats
 
-[![jN1xed GitHub Status](https://github-readme-stats.vercel.app/api?username=jN1xed&hide_title=true&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![jN1xed GitHub Status](https://github-readme-stats.vercel.app/api?username=jN1xed&hide_title=true&count_private=true&show_icons=true&theme=dark)
 
 ### Most Used Languages
 
-[![jN1xed Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jN1xed&theme=dark&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![jN1xed Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jN1xed&theme=dark&layout=compact&hide_title=true)
 
 ### Coding Activity
 
-[![jN1xed WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jN1xed&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+![jN1xed WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jN1xed&theme=dark&hide_title=true)
 
 ### GitHub Streak
 
-[![jN1xed GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jN1xed&theme=dark&border=E4E2E2)](https://git.io/streak-stats)
+![jN1xed GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jN1xed&theme=dark&border=E4E2E2)
 
 ### GitHub Contributions
 
-[![jN1xed GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jN1xed&bg_color=151515&color=dadada&line=6bc773&point=ffffff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![jN1xed GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jN1xed&bg_color=151515&color=dadada&line=6bc773&point=ffffff&area=true)
 
 </div>
