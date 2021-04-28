@@ -31,7 +31,7 @@ Don't know what to say. But, I'm 17 and growing fast af. Love to work on challen
 
 ### Coding Activity
 
-![jN1xed WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jN1xed&theme=dark&hide_title=true)
+![jN1xed WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jN1xed&theme=dark&hide_title=true&layout=compact)
 
 ### GitHub Streak
 
