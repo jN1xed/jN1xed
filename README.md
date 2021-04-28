@@ -2,7 +2,7 @@
 
 ### Heyo! How's it going? - jN1xed
 
-![](https://media.giphy.com/media/ehC4SqtNcEeLAiu66w/giphy.gif)
+<img src="https://media.giphy.com/media/ehC4SqtNcEeLAiu66w/giphy.gif" width=100px/>
 
 ### About Me
 
